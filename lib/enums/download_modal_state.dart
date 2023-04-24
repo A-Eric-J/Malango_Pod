@@ -1,0 +1,1 @@
+enum DownloadModalState { cancel, delete }
